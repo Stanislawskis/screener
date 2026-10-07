@@ -838,8 +838,101 @@
           "currency": "PLN"
         }
       ]
+    },
+    {
+      "changedAt": "2026-10-07T10:11:42.404Z",
+      "localTime": "2026-10-07 12:11:42",
+      "previousHash": "bf3d9d4dad9b621d1310674da3b5a6c367ec817c7d946472c5ccb1016b3b0554",
+      "positionHash": "bbb7abf16cd590d78929359806cd3fcf671b6719985582776d225aad93082479",
+      "positionCount": 9,
+      "accounts": {
+        "IKE": {
+          "positionCount": 4,
+          "tickers": [
+            "ALE",
+            "ASB",
+            "KGH",
+            "PGE"
+          ]
+        },
+        "PLN": {
+          "positionCount": 5,
+          "tickers": [
+            "ART",
+            "ASB",
+            "CBF",
+            "PZU",
+            "WAS"
+          ]
+        }
+      },
+      "positions": [
+        {
+          "account": "IKE",
+          "ticker": "ALE",
+          "qty": 25,
+          "avgPrice": 46.743,
+          "currency": ""
+        },
+        {
+          "account": "IKE",
+          "ticker": "ASB",
+          "qty": 16,
+          "avgPrice": 142.52,
+          "currency": "PLN"
+        },
+        {
+          "account": "IKE",
+          "ticker": "KGH",
+          "qty": 2.5,
+          "avgPrice": 325.4,
+          "currency": ""
+        },
+        {
+          "account": "IKE",
+          "ticker": "PGE",
+          "qty": 67,
+          "avgPrice": 12.797,
+          "currency": ""
+        },
+        {
+          "account": "PLN",
+          "ticker": "ART",
+          "qty": 4,
+          "avgPrice": 20.8,
+          "currency": "PLN"
+        },
+        {
+          "account": "PLN",
+          "ticker": "ASB",
+          "qty": 5,
+          "avgPrice": 158.22,
+          "currency": "PLN"
+        },
+        {
+          "account": "PLN",
+          "ticker": "CBF",
+          "qty": 2.2102,
+          "avgPrice": 203.6,
+          "currency": "PLN"
+        },
+        {
+          "account": "PLN",
+          "ticker": "PZU",
+          "qty": 12,
+          "avgPrice": 71.39,
+          "currency": "PLN"
+        },
+        {
+          "account": "PLN",
+          "ticker": "WAS",
+          "qty": 30,
+          "avgPrice": 6.6,
+          "currency": "PLN"
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-10-07T10:11:35.089Z",
-  "eventCount": 12
+  "updatedAt": "2026-10-07T10:11:42.404Z",
+  "eventCount": 13
 }
