@@ -1,10 +1,10 @@
 {
   "ok": true,
   "apiVersion": "1.4.4-gpw-portfolio-sync",
-  "changedAt": "2026-10-07T10:09:30.699Z",
-  "localTime": "2026-10-07 12:09:30",
-  "previousHash": "1fea52656c5e0bb9d55b2426910f16d1da9d309c57abbefb068be75d31cf7fbb",
-  "positionHash": "223c58dad18704c273fc4ea97bc7d5e3cf5ce5bbcd7fb3d34054a9a9adcd8a16",
+  "changedAt": "2026-10-07T10:09:34.644Z",
+  "localTime": "2026-10-07 12:09:34",
+  "previousHash": "223c58dad18704c273fc4ea97bc7d5e3cf5ce5bbcd7fb3d34054a9a9adcd8a16",
+  "positionHash": "cf5b1593eb0fcb5a2f06e84c97b07cac85711cacec6634a779b9ceb26d014da2",
   "positionCount": 5,
   "accounts": {
     "PLN": {
@@ -13,8 +13,8 @@
         "ART.PL",
         "ASB",
         "CBF.PL",
-        "PZU.PL",
-        "WAS.PL"
+        "PZU",
+        "WAS"
       ]
     }
   },
@@ -42,14 +42,14 @@
     },
     {
       "account": "PLN",
-      "ticker": "PZU.PL",
+      "ticker": "PZU",
       "qty": 12,
       "avgPrice": 71.39,
       "currency": "PLN"
     },
     {
       "account": "PLN",
-      "ticker": "WAS.PL",
+      "ticker": "WAS",
       "qty": 30,
       "avgPrice": 6.6,
       "currency": "PLN"
@@ -131,15 +131,15 @@
       },
       {
         "ACCOUNT": "PLN",
-        "TICKER": "PZU.PL",
+        "TICKER": "PZU",
         "QTY": "12",
         "AVG_PRICE": "71,39",
         "CURRENCY": "PLN",
-        "CURRENT_PRICE": "#N/A",
-        "POSITION_VALUE": "#N/A",
+        "CURRENT_PRICE": "71,96",
+        "POSITION_VALUE": "863,52",
         "COST": "856,68",
-        "P/L": "#N/A",
-        "P/L_%": "#N/A",
+        "P/L": "6,84",
+        "P/L_%": "0,80%",
         "PORTFOLIO_WEIGHT": "#N/A",
         "THESIS": "",
         "HORIZON": "",
@@ -149,15 +149,15 @@
       },
       {
         "ACCOUNT": "PLN",
-        "TICKER": "WAS.PL",
+        "TICKER": "WAS",
         "QTY": "30",
         "AVG_PRICE": "6,6",
         "CURRENCY": "PLN",
-        "CURRENT_PRICE": "#N/A",
-        "POSITION_VALUE": "#N/A",
+        "CURRENT_PRICE": "6,64",
+        "POSITION_VALUE": "199,2",
         "COST": "198",
-        "P/L": "#N/A",
-        "P/L_%": "#N/A",
+        "P/L": "1,2",
+        "P/L_%": "0,61%",
         "PORTFOLIO_WEIGHT": "#N/A",
         "THESIS": "",
         "HORIZON": "",
