@@ -1,23 +1,23 @@
 {
   "ok": true,
-  "apiVersion": "1.4.3-gpw-github-2h",
-  "generatedAt": "2026-10-07T10:01:52.022Z",
-  "localTime": "2026-10-07 12:01:52",
-  "lastRunId": "20261007-120130-4df0846a",
+  "apiVersion": "1.4.4-gpw-portfolio-sync",
+  "generatedAt": "2026-10-07T10:21:58.195Z",
+  "localTime": "2026-10-07 12:21:58",
+  "lastRunId": "20261007-122130-e00f8007",
   "currentArchiveFile": "history/2026-10-07/12-14.json",
   "currentBucket": "12-14",
   "currentSlot": "2026-10-07 12:00",
   "summary": {
-    "activeUniverse": 582,
-    "quotesOK": 344,
-    "unresolved": 238,
-    "coverage": 0.5910652920962199,
-    "p0Count": 64,
-    "p0cCount": 11,
-    "earlyWarningCount": 37
+    "activeUniverse": 402,
+    "quotesOK": 401,
+    "unresolved": 1,
+    "coverage": 0.9975124378109452,
+    "p0Count": 80,
+    "p0cCount": 14,
+    "earlyWarningCount": 39
   },
-  "p0Count": 64,
-  "p0cCount": 11,
-  "earlyWarningCount": 37,
-  "dataProblemsCount": 238
+  "p0Count": 80,
+  "p0cCount": 14,
+  "earlyWarningCount": 39,
+  "dataProblemsCount": 1
 }
