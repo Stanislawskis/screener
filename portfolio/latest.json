@@ -1,0 +1,170 @@
+{
+  "ok": true,
+  "apiVersion": "1.4.4-gpw-portfolio-sync",
+  "changedAt": "2026-10-07T10:08:54.132Z",
+  "localTime": "2026-10-07 12:08:54",
+  "previousHash": null,
+  "positionHash": "1fea52656c5e0bb9d55b2426910f16d1da9d309c57abbefb068be75d31cf7fbb",
+  "positionCount": 5,
+  "accounts": {
+    "PLN": {
+      "positionCount": 5,
+      "tickers": [
+        "ART.PL",
+        "ASB.PL",
+        "CBF.PL",
+        "PZU.PL",
+        "WAS.PL"
+      ]
+    }
+  },
+  "positions": [
+    {
+      "account": "PLN",
+      "ticker": "ART.PL",
+      "qty": 4,
+      "avgPrice": 20.8,
+      "currency": "PLN"
+    },
+    {
+      "account": "PLN",
+      "ticker": "ASB.PL",
+      "qty": 5,
+      "avgPrice": 158.22,
+      "currency": "PLN"
+    },
+    {
+      "account": "PLN",
+      "ticker": "CBF.PL",
+      "qty": 2.2102,
+      "avgPrice": 203.6,
+      "currency": "PLN"
+    },
+    {
+      "account": "PLN",
+      "ticker": "PZU.PL",
+      "qty": 12,
+      "avgPrice": 71.39,
+      "currency": "PLN"
+    },
+    {
+      "account": "PLN",
+      "ticker": "WAS.PL",
+      "qty": 30,
+      "avgPrice": 6.6,
+      "currency": "PLN"
+    }
+  ],
+  "sheetSnapshot": {
+    "headers": [
+      "ACCOUNT",
+      "TICKER",
+      "QTY",
+      "AVG_PRICE",
+      "CURRENCY",
+      "CURRENT_PRICE",
+      "POSITION_VALUE",
+      "COST",
+      "P/L",
+      "P/L_%",
+      "PORTFOLIO_WEIGHT",
+      "THESIS",
+      "HORIZON",
+      "MAX_WEIGHT",
+      "ADD_ALLOWED",
+      "NOTES"
+    ],
+    "rows": [
+      {
+        "ACCOUNT": "PLN",
+        "TICKER": "ART.PL",
+        "QTY": "4",
+        "AVG_PRICE": "20,8",
+        "CURRENCY": "PLN",
+        "CURRENT_PRICE": "#N/A",
+        "POSITION_VALUE": "#N/A",
+        "COST": "83,2",
+        "P/L": "#N/A",
+        "P/L_%": "#N/A",
+        "PORTFOLIO_WEIGHT": "#N/A",
+        "THESIS": "",
+        "HORIZON": "",
+        "MAX_WEIGHT": "",
+        "ADD_ALLOWED": "FALSE",
+        "NOTES": ""
+      },
+      {
+        "ACCOUNT": "PLN",
+        "TICKER": "ASB.PL",
+        "QTY": "5",
+        "AVG_PRICE": "158,22",
+        "CURRENCY": "PLN",
+        "CURRENT_PRICE": "#N/A",
+        "POSITION_VALUE": "#N/A",
+        "COST": "791,1",
+        "P/L": "#N/A",
+        "P/L_%": "#N/A",
+        "PORTFOLIO_WEIGHT": "#N/A",
+        "THESIS": "",
+        "HORIZON": "",
+        "MAX_WEIGHT": "",
+        "ADD_ALLOWED": "FALSE",
+        "NOTES": ""
+      },
+      {
+        "ACCOUNT": "PLN",
+        "TICKER": "CBF.PL",
+        "QTY": "2,2102",
+        "AVG_PRICE": "203,6",
+        "CURRENCY": "PLN",
+        "CURRENT_PRICE": "#N/A",
+        "POSITION_VALUE": "#N/A",
+        "COST": "449,99672",
+        "P/L": "#N/A",
+        "P/L_%": "#N/A",
+        "PORTFOLIO_WEIGHT": "#N/A",
+        "THESIS": "",
+        "HORIZON": "",
+        "MAX_WEIGHT": "",
+        "ADD_ALLOWED": "FALSE",
+        "NOTES": ""
+      },
+      {
+        "ACCOUNT": "PLN",
+        "TICKER": "PZU.PL",
+        "QTY": "12",
+        "AVG_PRICE": "71,39",
+        "CURRENCY": "PLN",
+        "CURRENT_PRICE": "#N/A",
+        "POSITION_VALUE": "#N/A",
+        "COST": "856,68",
+        "P/L": "#N/A",
+        "P/L_%": "#N/A",
+        "PORTFOLIO_WEIGHT": "#N/A",
+        "THESIS": "",
+        "HORIZON": "",
+        "MAX_WEIGHT": "",
+        "ADD_ALLOWED": "FALSE",
+        "NOTES": ""
+      },
+      {
+        "ACCOUNT": "PLN",
+        "TICKER": "WAS.PL",
+        "QTY": "30",
+        "AVG_PRICE": "6,6",
+        "CURRENCY": "PLN",
+        "CURRENT_PRICE": "#N/A",
+        "POSITION_VALUE": "#N/A",
+        "COST": "198",
+        "P/L": "#N/A",
+        "P/L_%": "#N/A",
+        "PORTFOLIO_WEIGHT": "#N/A",
+        "THESIS": "",
+        "HORIZON": "",
+        "MAX_WEIGHT": "",
+        "ADD_ALLOWED": "FALSE",
+        "NOTES": ""
+      }
+    ]
+  }
+}
