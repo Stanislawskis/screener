@@ -2250,8 +2250,157 @@
           "currency": "PLN"
         }
       ]
+    },
+    {
+      "changedAt": "2026-10-07T10:13:43.450Z",
+      "localTime": "2026-10-07 12:13:43",
+      "previousHash": "be7a0484f967bb80ec3f148e875f60b374cc59ff58688134d4ec13fb4db1c5bf",
+      "positionHash": "fa83b97ab3af3f767af02981db0e57386fdeb068f7c2ed961359ba274d8b953e",
+      "positionCount": 16,
+      "accounts": {
+        "IKE": {
+          "positionCount": 11,
+          "tickers": [
+            "ALE",
+            "APR",
+            "ARL",
+            "ASB",
+            "DNP",
+            "KGH",
+            "MDG",
+            "PGE",
+            "PKO",
+            "PUR",
+            "PZU"
+          ]
+        },
+        "PLN": {
+          "positionCount": 5,
+          "tickers": [
+            "ART",
+            "ASB",
+            "CBF",
+            "PZU",
+            "WAS"
+          ]
+        }
+      },
+      "positions": [
+        {
+          "account": "IKE",
+          "ticker": "ALE",
+          "qty": 25,
+          "avgPrice": 46.743,
+          "currency": ""
+        },
+        {
+          "account": "IKE",
+          "ticker": "APR",
+          "qty": 20,
+          "avgPrice": 29.96,
+          "currency": ""
+        },
+        {
+          "account": "IKE",
+          "ticker": "ARL",
+          "qty": 13,
+          "avgPrice": 22.3,
+          "currency": ""
+        },
+        {
+          "account": "IKE",
+          "ticker": "ASB",
+          "qty": 16,
+          "avgPrice": 142.52,
+          "currency": "PLN"
+        },
+        {
+          "account": "IKE",
+          "ticker": "DNP",
+          "qty": 70,
+          "avgPrice": 0,
+          "currency": ""
+        },
+        {
+          "account": "IKE",
+          "ticker": "KGH",
+          "qty": 2.5,
+          "avgPrice": 325.4,
+          "currency": ""
+        },
+        {
+          "account": "IKE",
+          "ticker": "MDG",
+          "qty": 45,
+          "avgPrice": 26.16,
+          "currency": ""
+        },
+        {
+          "account": "IKE",
+          "ticker": "PGE",
+          "qty": 67,
+          "avgPrice": 12.797,
+          "currency": ""
+        },
+        {
+          "account": "IKE",
+          "ticker": "PKO",
+          "qty": 6,
+          "avgPrice": 122.3,
+          "currency": ""
+        },
+        {
+          "account": "IKE",
+          "ticker": "PUR",
+          "qty": 600,
+          "avgPrice": 1.672,
+          "currency": ""
+        },
+        {
+          "account": "IKE",
+          "ticker": "PZU",
+          "qty": 30,
+          "avgPrice": 71.29,
+          "currency": ""
+        },
+        {
+          "account": "PLN",
+          "ticker": "ART",
+          "qty": 4,
+          "avgPrice": 20.8,
+          "currency": "PLN"
+        },
+        {
+          "account": "PLN",
+          "ticker": "ASB",
+          "qty": 5,
+          "avgPrice": 158.22,
+          "currency": "PLN"
+        },
+        {
+          "account": "PLN",
+          "ticker": "CBF",
+          "qty": 2.2102,
+          "avgPrice": 203.6,
+          "currency": "PLN"
+        },
+        {
+          "account": "PLN",
+          "ticker": "PZU",
+          "qty": 12,
+          "avgPrice": 71.39,
+          "currency": "PLN"
+        },
+        {
+          "account": "PLN",
+          "ticker": "WAS",
+          "qty": 30,
+          "avgPrice": 6.6,
+          "currency": "PLN"
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-10-07T10:13:30.523Z",
-  "eventCount": 24
+  "updatedAt": "2026-10-07T10:13:43.450Z",
+  "eventCount": 25
 }
