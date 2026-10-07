@@ -1,17 +1,18 @@
 {
   "ok": true,
   "apiVersion": "1.4.4-gpw-portfolio-sync",
-  "changedAt": "2026-10-07T10:11:25.695Z",
-  "localTime": "2026-10-07 12:11:25",
-  "previousHash": "e836af797a6850517a677a5830e45ef84bf3093a877d2fdd222ca6e05bf6131f",
-  "positionHash": "609fcd390fa067e702d176c34c32590666c47ff0bac2f6aaee16e8ec277045e0",
-  "positionCount": 8,
+  "changedAt": "2026-10-07T10:11:35.089Z",
+  "localTime": "2026-10-07 12:11:35",
+  "previousHash": "609fcd390fa067e702d176c34c32590666c47ff0bac2f6aaee16e8ec277045e0",
+  "positionHash": "bf3d9d4dad9b621d1310674da3b5a6c367ec817c7d946472c5ccb1016b3b0554",
+  "positionCount": 9,
   "accounts": {
     "IKE": {
-      "positionCount": 3,
+      "positionCount": 4,
       "tickers": [
         "ALE",
         "ASB",
+        "KGH",
         "PGE"
       ]
     },
@@ -40,6 +41,13 @@
       "qty": 16,
       "avgPrice": 142.52,
       "currency": "PLN"
+    },
+    {
+      "account": "IKE",
+      "ticker": "KGH",
+      "qty": 2.5,
+      "avgPrice": 0,
+      "currency": ""
     },
     {
       "account": "IKE",
@@ -115,7 +123,7 @@
         "COST": "1 168,58 zł",
         "P/L": "109,925",
         "P/L_%": "9,41%",
-        "PORTFOLIO_WEIGHT": "23,83%",
+        "PORTFOLIO_WEIGHT": "20,58%",
         "THESIS": "",
         "HORIZON": "",
         "MAX_WEIGHT": "",
@@ -133,7 +141,25 @@
         "COST": "2 280,32 zł",
         "P/L": "767,68",
         "P/L_%": "33,67%",
-        "PORTFOLIO_WEIGHT": "56,82%",
+        "PORTFOLIO_WEIGHT": "49,05%",
+        "THESIS": "",
+        "HORIZON": "",
+        "MAX_WEIGHT": "",
+        "ADD_ALLOWED": "FALSE",
+        "NOTES": ""
+      },
+      {
+        "ACCOUNT": "IKE",
+        "TICKER": "KGH",
+        "QTY": "2,5",
+        "AVG_PRICE": "",
+        "CURRENCY": "",
+        "CURRENT_PRICE": "339,65 zł",
+        "POSITION_VALUE": "849,13 zł",
+        "COST": "0,00 zł",
+        "P/L": "849,125",
+        "P/L_%": "#N/A",
+        "PORTFOLIO_WEIGHT": "13,67%",
         "THESIS": "",
         "HORIZON": "",
         "MAX_WEIGHT": "",
@@ -151,7 +177,7 @@
         "COST": "857,40 zł",
         "P/L": "180,431",
         "P/L_%": "21,04%",
-        "PORTFOLIO_WEIGHT": "19,35%",
+        "PORTFOLIO_WEIGHT": "16,70%",
         "THESIS": "",
         "HORIZON": "",
         "MAX_WEIGHT": "",
