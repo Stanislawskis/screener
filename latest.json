@@ -1,9 +1,9 @@
 {
   "ok": true,
   "apiVersion": "1.4.4-gpw-portfolio-sync",
-  "generatedAt": "2026-10-07T14:32:23.167Z",
-  "localTime": "2026-10-07 16:32:23",
-  "lastRunId": "20261007-163131-827fde16",
+  "generatedAt": "2026-10-07T14:41:59.104Z",
+  "localTime": "2026-10-07 16:41:59",
+  "lastRunId": "20261007-164130-ddc72029",
   "currentArchiveFile": "history/2026-10-07/16-18.json",
   "currentBucket": "16-18",
   "currentSlot": "2026-10-07 16:30",
@@ -12,12 +12,12 @@
     "quotesOK": 401,
     "unresolved": 1,
     "coverage": 0.9975124378109452,
-    "p0Count": 90,
-    "p0cCount": 15,
-    "earlyWarningCount": 51
+    "p0Count": 92,
+    "p0cCount": 16,
+    "earlyWarningCount": 55
   },
-  "p0Count": 90,
-  "p0cCount": 15,
-  "earlyWarningCount": 51,
+  "p0Count": 92,
+  "p0cCount": 16,
+  "earlyWarningCount": 55,
   "dataProblemsCount": 1
 }
