@@ -1,15 +1,16 @@
 {
   "ok": true,
   "apiVersion": "1.4.4-gpw-portfolio-sync",
-  "changedAt": "2026-10-07T10:11:00.058Z",
-  "localTime": "2026-10-07 12:11:00",
-  "previousHash": "b1911607c181d1989168d21934723521241fe7d6d7a50e09d396055d94a7e6eb",
-  "positionHash": "53950f151dc6526527d0f300333ddc00a13cec114c78f6a817908d3c4a1e691b",
-  "positionCount": 7,
+  "changedAt": "2026-10-07T10:11:14.390Z",
+  "localTime": "2026-10-07 12:11:14",
+  "previousHash": "53950f151dc6526527d0f300333ddc00a13cec114c78f6a817908d3c4a1e691b",
+  "positionHash": "e836af797a6850517a677a5830e45ef84bf3093a877d2fdd222ca6e05bf6131f",
+  "positionCount": 8,
   "accounts": {
     "IKE": {
-      "positionCount": 2,
+      "positionCount": 3,
       "tickers": [
+        "ALE",
         "ASB",
         "PGE"
       ]
@@ -26,6 +27,13 @@
     }
   },
   "positions": [
+    {
+      "account": "IKE",
+      "ticker": "ALE",
+      "qty": 25,
+      "avgPrice": 0,
+      "currency": ""
+    },
     {
       "account": "IKE",
       "ticker": "ASB",
@@ -98,6 +106,24 @@
     "rows": [
       {
         "ACCOUNT": "IKE",
+        "TICKER": "ALE",
+        "QTY": "25",
+        "AVG_PRICE": "",
+        "CURRENCY": "",
+        "CURRENT_PRICE": "51,14 zł",
+        "POSITION_VALUE": "1 278,50 zł",
+        "COST": "0,00 zł",
+        "P/L": "1278,5",
+        "P/L_%": "#N/A",
+        "PORTFOLIO_WEIGHT": "23,83%",
+        "THESIS": "",
+        "HORIZON": "",
+        "MAX_WEIGHT": "",
+        "ADD_ALLOWED": "FALSE",
+        "NOTES": ""
+      },
+      {
+        "ACCOUNT": "IKE",
         "TICKER": "ASB",
         "QTY": "16",
         "AVG_PRICE": "142,52",
@@ -107,7 +133,7 @@
         "COST": "2 280,32 zł",
         "P/L": "767,68",
         "P/L_%": "33,67%",
-        "PORTFOLIO_WEIGHT": "74,60%",
+        "PORTFOLIO_WEIGHT": "56,82%",
         "THESIS": "",
         "HORIZON": "",
         "MAX_WEIGHT": "",
@@ -125,7 +151,7 @@
         "COST": "857,40 zł",
         "P/L": "180,431",
         "P/L_%": "21,04%",
-        "PORTFOLIO_WEIGHT": "25,40%",
+        "PORTFOLIO_WEIGHT": "19,35%",
         "THESIS": "",
         "HORIZON": "",
         "MAX_WEIGHT": "",
