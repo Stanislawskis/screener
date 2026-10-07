@@ -1,19 +1,20 @@
 {
   "ok": true,
   "apiVersion": "1.4.4-gpw-portfolio-sync",
-  "changedAt": "2026-10-07T10:11:45.677Z",
-  "localTime": "2026-10-07 12:11:45",
-  "previousHash": "bf3d9d4dad9b621d1310674da3b5a6c367ec817c7d946472c5ccb1016b3b0554",
-  "positionHash": "bbb7abf16cd590d78929359806cd3fcf671b6719985582776d225aad93082479",
-  "positionCount": 9,
+  "changedAt": "2026-10-07T10:11:48.642Z",
+  "localTime": "2026-10-07 12:11:48",
+  "previousHash": "bbb7abf16cd590d78929359806cd3fcf671b6719985582776d225aad93082479",
+  "positionHash": "64b94f1752d2d42e72f17df306d27e750d4c96e25a89d9452fa646140c5124c2",
+  "positionCount": 10,
   "accounts": {
     "IKE": {
-      "positionCount": 4,
+      "positionCount": 5,
       "tickers": [
         "ALE",
         "ASB",
         "KGH",
-        "PGE"
+        "PGE",
+        "PZU"
       ]
     },
     "PLN": {
@@ -54,6 +55,13 @@
       "ticker": "PGE",
       "qty": 67,
       "avgPrice": 12.797,
+      "currency": ""
+    },
+    {
+      "account": "IKE",
+      "ticker": "PZU",
+      "qty": 30,
+      "avgPrice": 0,
       "currency": ""
     },
     {
@@ -123,7 +131,7 @@
         "COST": "1 168,58 zł",
         "P/L": "109,925",
         "P/L_%": "9,41%",
-        "PORTFOLIO_WEIGHT": "20,58%",
+        "PORTFOLIO_WEIGHT": "15,27%",
         "THESIS": "",
         "HORIZON": "",
         "MAX_WEIGHT": "",
@@ -141,7 +149,7 @@
         "COST": "2 280,32 zł",
         "P/L": "767,68",
         "P/L_%": "33,67%",
-        "PORTFOLIO_WEIGHT": "49,05%",
+        "PORTFOLIO_WEIGHT": "36,41%",
         "THESIS": "",
         "HORIZON": "",
         "MAX_WEIGHT": "",
@@ -159,7 +167,7 @@
         "COST": "813,50 zł",
         "P/L": "35,625",
         "P/L_%": "4,38%",
-        "PORTFOLIO_WEIGHT": "13,67%",
+        "PORTFOLIO_WEIGHT": "10,14%",
         "THESIS": "",
         "HORIZON": "",
         "MAX_WEIGHT": "",
@@ -177,7 +185,25 @@
         "COST": "857,40 zł",
         "P/L": "180,431",
         "P/L_%": "21,04%",
-        "PORTFOLIO_WEIGHT": "16,70%",
+        "PORTFOLIO_WEIGHT": "12,40%",
+        "THESIS": "",
+        "HORIZON": "",
+        "MAX_WEIGHT": "",
+        "ADD_ALLOWED": "FALSE",
+        "NOTES": ""
+      },
+      {
+        "ACCOUNT": "IKE",
+        "TICKER": "PZU",
+        "QTY": "30",
+        "AVG_PRICE": "",
+        "CURRENCY": "",
+        "CURRENT_PRICE": "71,96 zł",
+        "POSITION_VALUE": "2 158,80 zł",
+        "COST": "0,00 zł",
+        "P/L": "2158,8",
+        "P/L_%": "#N/A",
+        "PORTFOLIO_WEIGHT": "25,79%",
         "THESIS": "",
         "HORIZON": "",
         "MAX_WEIGHT": "",
