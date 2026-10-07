@@ -1,10 +1,10 @@
 {
   "ok": true,
   "apiVersion": "1.4.4-gpw-portfolio-sync",
-  "changedAt": "2026-10-07T10:10:20.858Z",
-  "localTime": "2026-10-07 12:10:20",
-  "previousHash": "1d68e49655727b7889a8fb533f61f2f3b23417d493903a56a40d991ade62f276",
-  "positionHash": "220a6ad0affe39b29b4a631f656ccc1dd90fa7f9dcd04e9cf140f82e4b5e59a8",
+  "changedAt": "2026-10-07T10:10:26.074Z",
+  "localTime": "2026-10-07 12:10:26",
+  "previousHash": "220a6ad0affe39b29b4a631f656ccc1dd90fa7f9dcd04e9cf140f82e4b5e59a8",
+  "positionHash": "7f805e4d65f9181f8ef23852e0308f63db5f04a69e9d075668f6ab5bbee8c20a",
   "positionCount": 6,
   "accounts": {
     "IKE": {
@@ -29,8 +29,8 @@
       "account": "IKE",
       "ticker": "ASB",
       "qty": 16,
-      "avgPrice": 0,
-      "currency": ""
+      "avgPrice": 142.52,
+      "currency": "PLN"
     },
     {
       "account": "PLN",
@@ -92,13 +92,13 @@
         "ACCOUNT": "IKE",
         "TICKER": "ASB",
         "QTY": "16",
-        "AVG_PRICE": "",
-        "CURRENCY": "",
+        "AVG_PRICE": "142,52",
+        "CURRENCY": "PLN",
         "CURRENT_PRICE": "190,5",
         "POSITION_VALUE": "3 048,00 zł",
-        "COST": "0,00 zł",
-        "P/L": "3048",
-        "P/L_%": "#N/A",
+        "COST": "2 280,32 zł",
+        "P/L": "767,68",
+        "P/L_%": "33,67%",
         "PORTFOLIO_WEIGHT": "100,00%",
         "THESIS": "",
         "HORIZON": "",
