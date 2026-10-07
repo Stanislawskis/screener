@@ -1,16 +1,16 @@
 {
   "ok": true,
   "apiVersion": "1.4.4-gpw-portfolio-sync",
-  "changedAt": "2026-10-07T10:09:34.644Z",
-  "localTime": "2026-10-07 12:09:34",
-  "previousHash": "223c58dad18704c273fc4ea97bc7d5e3cf5ce5bbcd7fb3d34054a9a9adcd8a16",
-  "positionHash": "cf5b1593eb0fcb5a2f06e84c97b07cac85711cacec6634a779b9ceb26d014da2",
+  "changedAt": "2026-10-07T10:09:37.270Z",
+  "localTime": "2026-10-07 12:09:37",
+  "previousHash": "cf5b1593eb0fcb5a2f06e84c97b07cac85711cacec6634a779b9ceb26d014da2",
+  "positionHash": "090f12619895a1d7c839dc5eb202cdfd0f814f91c3577b4747ea95f379b20564",
   "positionCount": 5,
   "accounts": {
     "PLN": {
       "positionCount": 5,
       "tickers": [
-        "ART.PL",
+        "ART",
         "ASB",
         "CBF.PL",
         "PZU",
@@ -21,7 +21,7 @@
   "positions": [
     {
       "account": "PLN",
-      "ticker": "ART.PL",
+      "ticker": "ART",
       "qty": 4,
       "avgPrice": 20.8,
       "currency": "PLN"
@@ -77,15 +77,15 @@
     "rows": [
       {
         "ACCOUNT": "PLN",
-        "TICKER": "ART.PL",
+        "TICKER": "ART",
         "QTY": "4",
         "AVG_PRICE": "20,8",
         "CURRENCY": "PLN",
-        "CURRENT_PRICE": "#N/A",
-        "POSITION_VALUE": "#N/A",
+        "CURRENT_PRICE": "20,55",
+        "POSITION_VALUE": "82,2",
         "COST": "83,2",
-        "P/L": "#N/A",
-        "P/L_%": "#N/A",
+        "P/L": "-1",
+        "P/L_%": "-1,20%",
         "PORTFOLIO_WEIGHT": "#N/A",
         "THESIS": "",
         "HORIZON": "",
