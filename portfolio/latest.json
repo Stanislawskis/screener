@@ -1,10 +1,10 @@
 {
   "ok": true,
   "apiVersion": "1.4.4-gpw-portfolio-sync",
-  "changedAt": "2026-10-07T10:13:43.450Z",
-  "localTime": "2026-10-07 12:13:43",
+  "changedAt": "2026-10-07T10:13:47.620Z",
+  "localTime": "2026-10-07 12:13:47",
   "previousHash": "be7a0484f967bb80ec3f148e875f60b374cc59ff58688134d4ec13fb4db1c5bf",
-  "positionHash": "fa83b97ab3af3f767af02981db0e57386fdeb068f7c2ed961359ba274d8b953e",
+  "positionHash": "53fc25ac962cac60b8ce582ee18d6a5df50109672704320f09bc62eb331b1813",
   "positionCount": 16,
   "accounts": {
     "IKE": {
@@ -67,7 +67,7 @@
       "account": "IKE",
       "ticker": "DNP",
       "qty": 70,
-      "avgPrice": 0,
+      "avgPrice": 34.614,
       "currency": ""
     },
     {
@@ -244,13 +244,13 @@
         "ACCOUNT": "IKE",
         "TICKER": "DNP",
         "QTY": "70",
-        "AVG_PRICE": "",
+        "AVG_PRICE": "34,614",
         "CURRENCY": "",
         "CURRENT_PRICE": "33,34 zł",
         "POSITION_VALUE": "2 333,80 zł",
-        "COST": "0,00 zł",
-        "P/L": "2333,8",
-        "P/L_%": "#N/A",
+        "COST": "2 422,98 zł",
+        "P/L": "-89,18",
+        "P/L_%": "-3,68%",
         "PORTFOLIO_WEIGHT": "#N/A",
         "THESIS": "",
         "HORIZON": "",
