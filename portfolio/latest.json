@@ -1,10 +1,10 @@
 {
   "ok": true,
   "apiVersion": "1.4.4-gpw-portfolio-sync",
-  "changedAt": "2026-10-07T10:12:37.988Z",
-  "localTime": "2026-10-07 12:12:37",
-  "previousHash": "d576b80222e5c6fe23cd2fb511442cbecaf36847a0a4f97635f6a28b2043f0ed",
-  "positionHash": "0c60e7fe1fbd2ebee5595135db908d68409976c98032a4db65b7547042504e69",
+  "changedAt": "2026-10-07T10:12:44.281Z",
+  "localTime": "2026-10-07 12:12:44",
+  "previousHash": "0c60e7fe1fbd2ebee5595135db908d68409976c98032a4db65b7547042504e69",
+  "positionHash": "a9162a4c85312dae463b4a9e61e9b642d9e46ebbceb6acbd907df16c78622648",
   "positionCount": 13,
   "accounts": {
     "IKE": {
@@ -78,7 +78,7 @@
       "account": "IKE",
       "ticker": "PKO",
       "qty": 6,
-      "avgPrice": 0,
+      "avgPrice": 122.3,
       "currency": ""
     },
     {
@@ -256,13 +256,13 @@
         "ACCOUNT": "IKE",
         "TICKER": "PKO",
         "QTY": "6",
-        "AVG_PRICE": "",
+        "AVG_PRICE": "122,3",
         "CURRENCY": "",
         "CURRENT_PRICE": "122,30 zł",
         "POSITION_VALUE": "733,80 zł",
-        "COST": "0,00 zł",
-        "P/L": "733,8",
-        "P/L_%": "#N/A",
+        "COST": "733,80 zł",
+        "P/L": "0",
+        "P/L_%": "0,00%",
         "PORTFOLIO_WEIGHT": "7,33%",
         "THESIS": "",
         "HORIZON": "",
