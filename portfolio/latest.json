@@ -1,10 +1,10 @@
 {
   "ok": true,
   "apiVersion": "1.4.4-gpw-portfolio-sync",
-  "changedAt": "2026-10-07T10:15:55.870Z",
-  "localTime": "2026-10-07 12:15:55",
-  "previousHash": "c6ebda51199a8f0f07758d12a78b29aa48e2eb4dfa1f39bb0c0490763b3085fd",
-  "positionHash": "7e624a9305916efe07d0ef2080401a6c4bc89c4f1f4f78e810d31b68f1bea7b5",
+  "changedAt": "2026-10-07T10:16:54.536Z",
+  "localTime": "2026-10-07 12:16:54",
+  "previousHash": "7e624a9305916efe07d0ef2080401a6c4bc89c4f1f4f78e810d31b68f1bea7b5",
+  "positionHash": "aa0449b7213d7f3c331e114703d341bc199295c101e96a876380715c60c410f8",
   "positionCount": 16,
   "accounts": {
     "IKE": {
@@ -40,21 +40,21 @@
       "ticker": "ALE",
       "qty": 25,
       "avgPrice": 46.743,
-      "currency": ""
+      "currency": "PLN"
     },
     {
       "account": "IKE",
       "ticker": "APR",
       "qty": 20,
       "avgPrice": 29.96,
-      "currency": ""
+      "currency": "PLN"
     },
     {
       "account": "IKE",
       "ticker": "ARL",
       "qty": 13,
       "avgPrice": 22.3,
-      "currency": ""
+      "currency": "PLN"
     },
     {
       "account": "IKE",
@@ -68,49 +68,49 @@
       "ticker": "DNP",
       "qty": 70,
       "avgPrice": 34.614,
-      "currency": ""
+      "currency": "PLN"
     },
     {
       "account": "IKE",
       "ticker": "KGH",
       "qty": 2.5,
       "avgPrice": 325.4,
-      "currency": ""
+      "currency": "PLN"
     },
     {
       "account": "IKE",
       "ticker": "MDG",
       "qty": 45,
       "avgPrice": 26.16,
-      "currency": ""
+      "currency": "PLN"
     },
     {
       "account": "IKE",
       "ticker": "MQR",
       "qty": 600,
       "avgPrice": 1.672,
-      "currency": ""
+      "currency": "PLN"
     },
     {
       "account": "IKE",
       "ticker": "PGE",
       "qty": 67,
       "avgPrice": 12.797,
-      "currency": ""
+      "currency": "PLN"
     },
     {
       "account": "IKE",
       "ticker": "PKO",
       "qty": 6,
       "avgPrice": 122.3,
-      "currency": ""
+      "currency": "PLN"
     },
     {
       "account": "IKE",
       "ticker": "PZU",
       "qty": 30,
       "avgPrice": 71.29,
-      "currency": ""
+      "currency": "PLN"
     },
     {
       "account": "PLN",
@@ -173,7 +173,7 @@
         "TICKER": "ALE",
         "QTY": "25",
         "AVG_PRICE": "46,743",
-        "CURRENCY": "",
+        "CURRENCY": "PLN",
         "CURRENT_PRICE": "51,14 zł",
         "POSITION_VALUE": "1 278,50 zł",
         "COST": "1 168,58 zł",
@@ -191,7 +191,7 @@
         "TICKER": "APR",
         "QTY": "20",
         "AVG_PRICE": "29,96",
-        "CURRENCY": "",
+        "CURRENCY": "PLN",
         "CURRENT_PRICE": "30,75 zł",
         "POSITION_VALUE": "615,00 zł",
         "COST": "599,20 zł",
@@ -209,7 +209,7 @@
         "TICKER": "ARL",
         "QTY": "13",
         "AVG_PRICE": "22,3",
-        "CURRENCY": "",
+        "CURRENCY": "PLN",
         "CURRENT_PRICE": "22,40 zł",
         "POSITION_VALUE": "291,20 zł",
         "COST": "289,90 zł",
@@ -245,7 +245,7 @@
         "TICKER": "DNP",
         "QTY": "70",
         "AVG_PRICE": "34,614",
-        "CURRENCY": "",
+        "CURRENCY": "PLN",
         "CURRENT_PRICE": "33,34 zł",
         "POSITION_VALUE": "2 333,80 zł",
         "COST": "2 422,98 zł",
@@ -263,7 +263,7 @@
         "TICKER": "KGH",
         "QTY": "2,5",
         "AVG_PRICE": "325,4",
-        "CURRENCY": "",
+        "CURRENCY": "PLN",
         "CURRENT_PRICE": "339,65 zł",
         "POSITION_VALUE": "849,13 zł",
         "COST": "813,50 zł",
@@ -281,7 +281,7 @@
         "TICKER": "MDG",
         "QTY": "45",
         "AVG_PRICE": "26,16",
-        "CURRENCY": "",
+        "CURRENCY": "PLN",
         "CURRENT_PRICE": "25,60 zł",
         "POSITION_VALUE": "1 152,00 zł",
         "COST": "1 177,20 zł",
@@ -299,7 +299,7 @@
         "TICKER": "MQR",
         "QTY": "600",
         "AVG_PRICE": "1,672",
-        "CURRENCY": "",
+        "CURRENCY": "PLN",
         "CURRENT_PRICE": "1,59 zł",
         "POSITION_VALUE": "954,00 zł",
         "COST": "1 003,20 zł",
@@ -317,7 +317,7 @@
         "TICKER": "PGE",
         "QTY": "67",
         "AVG_PRICE": "12,797",
-        "CURRENCY": "",
+        "CURRENCY": "PLN",
         "CURRENT_PRICE": "15,49 zł",
         "POSITION_VALUE": "1 037,83 zł",
         "COST": "857,40 zł",
@@ -335,7 +335,7 @@
         "TICKER": "PKO",
         "QTY": "6",
         "AVG_PRICE": "122,3",
-        "CURRENCY": "",
+        "CURRENCY": "PLN",
         "CURRENT_PRICE": "122,30 zł",
         "POSITION_VALUE": "733,80 zł",
         "COST": "733,80 zł",
@@ -353,7 +353,7 @@
         "TICKER": "PZU",
         "QTY": "30",
         "AVG_PRICE": "71,29",
-        "CURRENCY": "",
+        "CURRENCY": "PLN",
         "CURRENT_PRICE": "71,96 zł",
         "POSITION_VALUE": "2 158,80 zł",
         "COST": "2 138,70 zł",
