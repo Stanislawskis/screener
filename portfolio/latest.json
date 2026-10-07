@@ -1,12 +1,18 @@
 {
   "ok": true,
   "apiVersion": "1.4.4-gpw-portfolio-sync",
-  "changedAt": "2026-10-07T10:09:39.593Z",
-  "localTime": "2026-10-07 12:09:39",
-  "previousHash": "cf5b1593eb0fcb5a2f06e84c97b07cac85711cacec6634a779b9ceb26d014da2",
-  "positionHash": "1d68e49655727b7889a8fb533f61f2f3b23417d493903a56a40d991ade62f276",
-  "positionCount": 5,
+  "changedAt": "2026-10-07T10:10:19.700Z",
+  "localTime": "2026-10-07 12:10:19",
+  "previousHash": "1d68e49655727b7889a8fb533f61f2f3b23417d493903a56a40d991ade62f276",
+  "positionHash": "220a6ad0affe39b29b4a631f656ccc1dd90fa7f9dcd04e9cf140f82e4b5e59a8",
+  "positionCount": 6,
   "accounts": {
+    "IKE": {
+      "positionCount": 1,
+      "tickers": [
+        "ASB"
+      ]
+    },
     "PLN": {
       "positionCount": 5,
       "tickers": [
@@ -19,6 +25,13 @@
     }
   },
   "positions": [
+    {
+      "account": "IKE",
+      "ticker": "ASB",
+      "qty": 16,
+      "avgPrice": 0,
+      "currency": ""
+    },
     {
       "account": "PLN",
       "ticker": "ART",
@@ -76,14 +89,32 @@
     ],
     "rows": [
       {
+        "ACCOUNT": "IKE",
+        "TICKER": "ASB",
+        "QTY": "16",
+        "AVG_PRICE": "",
+        "CURRENCY": "",
+        "CURRENT_PRICE": "190,5",
+        "POSITION_VALUE": "3 048,00 zł",
+        "COST": "0,00 zł",
+        "P/L": "3048",
+        "P/L_%": "#N/A",
+        "PORTFOLIO_WEIGHT": "100,00%",
+        "THESIS": "",
+        "HORIZON": "",
+        "MAX_WEIGHT": "",
+        "ADD_ALLOWED": "FALSE",
+        "NOTES": ""
+      },
+      {
         "ACCOUNT": "PLN",
         "TICKER": "ART",
         "QTY": "4",
         "AVG_PRICE": "20,8",
         "CURRENCY": "PLN",
         "CURRENT_PRICE": "20,55",
-        "POSITION_VALUE": "82,2",
-        "COST": "83,2",
+        "POSITION_VALUE": "82,20 zł",
+        "COST": "83,20 zł",
         "P/L": "-1",
         "P/L_%": "-1,20%",
         "PORTFOLIO_WEIGHT": "3,23%",
@@ -100,8 +131,8 @@
         "AVG_PRICE": "158,22",
         "CURRENCY": "PLN",
         "CURRENT_PRICE": "190,5",
-        "POSITION_VALUE": "952,5",
-        "COST": "791,1",
+        "POSITION_VALUE": "952,50 zł",
+        "COST": "791,10 zł",
         "P/L": "161,4",
         "P/L_%": "20,40%",
         "PORTFOLIO_WEIGHT": "37,48%",
@@ -118,8 +149,8 @@
         "AVG_PRICE": "203,6",
         "CURRENCY": "PLN",
         "CURRENT_PRICE": "200,8",
-        "POSITION_VALUE": "443,80816",
-        "COST": "449,99672",
+        "POSITION_VALUE": "443,81 zł",
+        "COST": "450,00 zł",
         "P/L": "-6,18856",
         "P/L_%": "-1,38%",
         "PORTFOLIO_WEIGHT": "17,46%",
@@ -136,8 +167,8 @@
         "AVG_PRICE": "71,39",
         "CURRENCY": "PLN",
         "CURRENT_PRICE": "71,96",
-        "POSITION_VALUE": "863,52",
-        "COST": "856,68",
+        "POSITION_VALUE": "863,52 zł",
+        "COST": "856,68 zł",
         "P/L": "6,84",
         "P/L_%": "0,80%",
         "PORTFOLIO_WEIGHT": "33,98%",
@@ -154,8 +185,8 @@
         "AVG_PRICE": "6,6",
         "CURRENCY": "PLN",
         "CURRENT_PRICE": "6,64",
-        "POSITION_VALUE": "199,2",
-        "COST": "198",
+        "POSITION_VALUE": "199,20 zł",
+        "COST": "198,00 zł",
         "P/L": "1,2",
         "P/L_%": "0,61%",
         "PORTFOLIO_WEIGHT": "7,84%",
