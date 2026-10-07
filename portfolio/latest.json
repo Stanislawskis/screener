@@ -1,10 +1,10 @@
 {
   "ok": true,
   "apiVersion": "1.4.4-gpw-portfolio-sync",
-  "changedAt": "2026-10-07T10:10:50.180Z",
-  "localTime": "2026-10-07 12:10:50",
-  "previousHash": "7f805e4d65f9181f8ef23852e0308f63db5f04a69e9d075668f6ab5bbee8c20a",
-  "positionHash": "b1911607c181d1989168d21934723521241fe7d6d7a50e09d396055d94a7e6eb",
+  "changedAt": "2026-10-07T10:11:00.058Z",
+  "localTime": "2026-10-07 12:11:00",
+  "previousHash": "b1911607c181d1989168d21934723521241fe7d6d7a50e09d396055d94a7e6eb",
+  "positionHash": "53950f151dc6526527d0f300333ddc00a13cec114c78f6a817908d3c4a1e691b",
   "positionCount": 7,
   "accounts": {
     "IKE": {
@@ -37,7 +37,7 @@
       "account": "IKE",
       "ticker": "PGE",
       "qty": 67,
-      "avgPrice": 0,
+      "avgPrice": 12.797,
       "currency": ""
     },
     {
@@ -118,13 +118,13 @@
         "ACCOUNT": "IKE",
         "TICKER": "PGE",
         "QTY": "67",
-        "AVG_PRICE": "",
+        "AVG_PRICE": "12,797",
         "CURRENCY": "",
         "CURRENT_PRICE": "15,49 zł",
         "POSITION_VALUE": "1 037,83 zł",
-        "COST": "0,00 zł",
-        "P/L": "1037,83",
-        "P/L_%": "#N/A",
+        "COST": "857,40 zł",
+        "P/L": "180,431",
+        "P/L_%": "21,04%",
         "PORTFOLIO_WEIGHT": "25,40%",
         "THESIS": "",
         "HORIZON": "",
