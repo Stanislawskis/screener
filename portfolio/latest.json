@@ -1,10 +1,10 @@
 {
   "ok": true,
   "apiVersion": "1.4.4-gpw-portfolio-sync",
-  "changedAt": "2026-10-07T10:11:48.642Z",
-  "localTime": "2026-10-07 12:11:48",
-  "previousHash": "bbb7abf16cd590d78929359806cd3fcf671b6719985582776d225aad93082479",
-  "positionHash": "64b94f1752d2d42e72f17df306d27e750d4c96e25a89d9452fa646140c5124c2",
+  "changedAt": "2026-10-07T10:11:53.713Z",
+  "localTime": "2026-10-07 12:11:53",
+  "previousHash": "64b94f1752d2d42e72f17df306d27e750d4c96e25a89d9452fa646140c5124c2",
+  "positionHash": "7a4fb459e1172bbcbf6830b504ee2fe52bd76790419461f78e04da8682cca0ac",
   "positionCount": 10,
   "accounts": {
     "IKE": {
@@ -61,7 +61,7 @@
       "account": "IKE",
       "ticker": "PZU",
       "qty": 30,
-      "avgPrice": 0,
+      "avgPrice": 71.29,
       "currency": ""
     },
     {
@@ -196,13 +196,13 @@
         "ACCOUNT": "IKE",
         "TICKER": "PZU",
         "QTY": "30",
-        "AVG_PRICE": "",
+        "AVG_PRICE": "71,29",
         "CURRENCY": "",
         "CURRENT_PRICE": "71,96 zł",
         "POSITION_VALUE": "2 158,80 zł",
-        "COST": "0,00 zł",
-        "P/L": "2158,8",
-        "P/L_%": "#N/A",
+        "COST": "2 138,70 zł",
+        "P/L": "20,1",
+        "P/L_%": "0,94%",
         "PORTFOLIO_WEIGHT": "25,79%",
         "THESIS": "",
         "HORIZON": "",
