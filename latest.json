@@ -1,9 +1,9 @@
 {
   "ok": true,
   "apiVersion": "1.4.4-gpw-portfolio-sync",
-  "generatedAt": "2026-10-07T12:01:53.496Z",
-  "localTime": "2026-10-07 14:01:53",
-  "lastRunId": "20261007-140130-d21592bd",
+  "generatedAt": "2026-10-07T12:01:38.621Z",
+  "localTime": "2026-10-07 14:01:38",
+  "lastRunId": "20261007-135130-9b3b38dc",
   "currentArchiveFile": "history/2026-10-07/14-16.json",
   "currentBucket": "14-16",
   "currentSlot": "2026-10-07 14:00",
