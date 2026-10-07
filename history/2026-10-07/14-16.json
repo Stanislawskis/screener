@@ -1855,9 +1855,9 @@
       "slot": "2026-10-07 14:00"
     },
     {
-      "generatedAt": "2026-10-07T12:31:37.714Z",
-      "localTime": "2026-10-07 14:31:37",
-      "lastRunId": "20261007-142131-35102e5b",
+      "generatedAt": "2026-10-07T12:31:54.707Z",
+      "localTime": "2026-10-07 14:31:54",
+      "lastRunId": "20261007-143130-d8dbfda3",
       "summary": {
         "activeUniverse": 402,
         "quotesOK": 401,
@@ -3624,6 +3624,6 @@
       "slot": "2026-10-07 14:30"
     }
   ],
-  "updatedAt": "2026-10-07T12:31:37.714Z",
+  "updatedAt": "2026-10-07T12:31:54.707Z",
   "snapshotCount": 2
 }
