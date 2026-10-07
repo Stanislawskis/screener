@@ -1,10 +1,10 @@
 {
   "ok": true,
   "apiVersion": "1.4.4-gpw-portfolio-sync",
-  "changedAt": "2026-10-07T10:15:34.578Z",
-  "localTime": "2026-10-07 12:15:34",
-  "previousHash": "e4a049fcbfeed7e9c62a768e3ab6bdc3e3f6c2607feb9e05490a9549fb512ef5",
-  "positionHash": "c6ebda51199a8f0f07758d12a78b29aa48e2eb4dfa1f39bb0c0490763b3085fd",
+  "changedAt": "2026-10-07T10:15:55.870Z",
+  "localTime": "2026-10-07 12:15:55",
+  "previousHash": "c6ebda51199a8f0f07758d12a78b29aa48e2eb4dfa1f39bb0c0490763b3085fd",
+  "positionHash": "7e624a9305916efe07d0ef2080401a6c4bc89c4f1f4f78e810d31b68f1bea7b5",
   "positionCount": 16,
   "accounts": {
     "IKE": {
@@ -88,7 +88,7 @@
       "account": "IKE",
       "ticker": "MQR",
       "qty": 600,
-      "avgPrice": 0,
+      "avgPrice": 1.672,
       "currency": ""
     },
     {
@@ -298,13 +298,13 @@
         "ACCOUNT": "IKE",
         "TICKER": "MQR",
         "QTY": "600",
-        "AVG_PRICE": "",
+        "AVG_PRICE": "1,672",
         "CURRENCY": "",
         "CURRENT_PRICE": "1,59 zł",
         "POSITION_VALUE": "954,00 zł",
-        "COST": "0,00 zł",
-        "P/L": "954,00 zł",
-        "P/L_%": "#N/A",
+        "COST": "1 003,20 zł",
+        "P/L": "-49,20 zł",
+        "P/L_%": "-4,90%",
         "PORTFOLIO_WEIGHT": "6,60%",
         "THESIS": "",
         "HORIZON": "",
