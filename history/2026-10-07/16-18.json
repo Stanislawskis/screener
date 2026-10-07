@@ -8,9 +8,9 @@
   "bucketEndLocal": "2026-10-07 18:00:00",
   "snapshots": [
     {
-      "generatedAt": "2026-10-07T14:01:38.290Z",
-      "localTime": "2026-10-07 16:01:38",
-      "lastRunId": "20261007-155132-43a73bbb",
+      "generatedAt": "2026-10-07T14:01:59.219Z",
+      "localTime": "2026-10-07 16:01:59",
+      "lastRunId": "20261007-160131-34ae7125",
       "summary": {
         "activeUniverse": 402,
         "quotesOK": 401,
@@ -1946,6 +1946,6 @@
       "slot": "2026-10-07 16:00"
     }
   ],
-  "updatedAt": "2026-10-07T14:01:38.290Z",
+  "updatedAt": "2026-10-07T14:01:59.219Z",
   "snapshotCount": 1
 }
