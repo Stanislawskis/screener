@@ -1,19 +1,20 @@
 {
   "ok": true,
   "apiVersion": "1.4.4-gpw-portfolio-sync",
-  "changedAt": "2026-10-07T10:13:30.523Z",
-  "localTime": "2026-10-07 12:13:30",
-  "previousHash": "604e222bd552472ca489fbdb4ad4f545b4a98485462115effed3b948d05a8590",
-  "positionHash": "be7a0484f967bb80ec3f148e875f60b374cc59ff58688134d4ec13fb4db1c5bf",
-  "positionCount": 15,
+  "changedAt": "2026-10-07T10:13:43.450Z",
+  "localTime": "2026-10-07 12:13:43",
+  "previousHash": "be7a0484f967bb80ec3f148e875f60b374cc59ff58688134d4ec13fb4db1c5bf",
+  "positionHash": "fa83b97ab3af3f767af02981db0e57386fdeb068f7c2ed961359ba274d8b953e",
+  "positionCount": 16,
   "accounts": {
     "IKE": {
-      "positionCount": 10,
+      "positionCount": 11,
       "tickers": [
         "ALE",
         "APR",
         "ARL",
         "ASB",
+        "DNP",
         "KGH",
         "MDG",
         "PGE",
@@ -61,6 +62,13 @@
       "qty": 16,
       "avgPrice": 142.52,
       "currency": "PLN"
+    },
+    {
+      "account": "IKE",
+      "ticker": "DNP",
+      "qty": 70,
+      "avgPrice": 0,
+      "currency": ""
     },
     {
       "account": "IKE",
@@ -225,6 +233,24 @@
         "COST": "2 280,32 zł",
         "P/L": "767,68",
         "P/L_%": "33,67%",
+        "PORTFOLIO_WEIGHT": "#N/A",
+        "THESIS": "",
+        "HORIZON": "",
+        "MAX_WEIGHT": "",
+        "ADD_ALLOWED": "FALSE",
+        "NOTES": ""
+      },
+      {
+        "ACCOUNT": "IKE",
+        "TICKER": "DNP",
+        "QTY": "70",
+        "AVG_PRICE": "",
+        "CURRENCY": "",
+        "CURRENT_PRICE": "33,34 zł",
+        "POSITION_VALUE": "2 333,80 zł",
+        "COST": "0,00 zł",
+        "P/L": "2333,8",
+        "P/L_%": "#N/A",
         "PORTFOLIO_WEIGHT": "#N/A",
         "THESIS": "",
         "HORIZON": "",
