@@ -1,10 +1,10 @@
 {
   "ok": true,
   "apiVersion": "1.4.4-gpw-portfolio-sync",
-  "changedAt": "2026-10-07T10:11:14.390Z",
-  "localTime": "2026-10-07 12:11:14",
-  "previousHash": "53950f151dc6526527d0f300333ddc00a13cec114c78f6a817908d3c4a1e691b",
-  "positionHash": "e836af797a6850517a677a5830e45ef84bf3093a877d2fdd222ca6e05bf6131f",
+  "changedAt": "2026-10-07T10:11:25.695Z",
+  "localTime": "2026-10-07 12:11:25",
+  "previousHash": "e836af797a6850517a677a5830e45ef84bf3093a877d2fdd222ca6e05bf6131f",
+  "positionHash": "609fcd390fa067e702d176c34c32590666c47ff0bac2f6aaee16e8ec277045e0",
   "positionCount": 8,
   "accounts": {
     "IKE": {
@@ -31,7 +31,7 @@
       "account": "IKE",
       "ticker": "ALE",
       "qty": 25,
-      "avgPrice": 0,
+      "avgPrice": 46.743,
       "currency": ""
     },
     {
@@ -108,13 +108,13 @@
         "ACCOUNT": "IKE",
         "TICKER": "ALE",
         "QTY": "25",
-        "AVG_PRICE": "",
+        "AVG_PRICE": "46,743",
         "CURRENCY": "",
         "CURRENT_PRICE": "51,14 zł",
         "POSITION_VALUE": "1 278,50 zł",
-        "COST": "0,00 zł",
-        "P/L": "1278,5",
-        "P/L_%": "#N/A",
+        "COST": "1 168,58 zł",
+        "P/L": "109,925",
+        "P/L_%": "9,41%",
         "PORTFOLIO_WEIGHT": "23,83%",
         "THESIS": "",
         "HORIZON": "",
