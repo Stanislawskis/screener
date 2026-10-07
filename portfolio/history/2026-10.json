@@ -115,8 +115,64 @@
           "currency": "PLN"
         }
       ]
+    },
+    {
+      "changedAt": "2026-10-07T10:09:34.644Z",
+      "localTime": "2026-10-07 12:09:34",
+      "previousHash": "223c58dad18704c273fc4ea97bc7d5e3cf5ce5bbcd7fb3d34054a9a9adcd8a16",
+      "positionHash": "cf5b1593eb0fcb5a2f06e84c97b07cac85711cacec6634a779b9ceb26d014da2",
+      "positionCount": 5,
+      "accounts": {
+        "PLN": {
+          "positionCount": 5,
+          "tickers": [
+            "ART.PL",
+            "ASB",
+            "CBF.PL",
+            "PZU",
+            "WAS"
+          ]
+        }
+      },
+      "positions": [
+        {
+          "account": "PLN",
+          "ticker": "ART.PL",
+          "qty": 4,
+          "avgPrice": 20.8,
+          "currency": "PLN"
+        },
+        {
+          "account": "PLN",
+          "ticker": "ASB",
+          "qty": 5,
+          "avgPrice": 158.22,
+          "currency": "PLN"
+        },
+        {
+          "account": "PLN",
+          "ticker": "CBF.PL",
+          "qty": 2.2102,
+          "avgPrice": 203.6,
+          "currency": "PLN"
+        },
+        {
+          "account": "PLN",
+          "ticker": "PZU",
+          "qty": 12,
+          "avgPrice": 71.39,
+          "currency": "PLN"
+        },
+        {
+          "account": "PLN",
+          "ticker": "WAS",
+          "qty": 30,
+          "avgPrice": 6.6,
+          "currency": "PLN"
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-10-07T10:09:30.699Z",
-  "eventCount": 2
+  "updatedAt": "2026-10-07T10:09:34.644Z",
+  "eventCount": 3
 }
