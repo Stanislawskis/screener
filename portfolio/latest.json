@@ -1,10 +1,10 @@
 {
   "ok": true,
   "apiVersion": "1.4.4-gpw-portfolio-sync",
-  "changedAt": "2026-10-07T10:13:23.949Z",
-  "localTime": "2026-10-07 12:13:23",
-  "previousHash": "2b1825819c855a736b675f3f8469af79a392387f9a90eb2985ef0ccc5c543bb5",
-  "positionHash": "604e222bd552472ca489fbdb4ad4f545b4a98485462115effed3b948d05a8590",
+  "changedAt": "2026-10-07T10:13:30.523Z",
+  "localTime": "2026-10-07 12:13:30",
+  "previousHash": "604e222bd552472ca489fbdb4ad4f545b4a98485462115effed3b948d05a8590",
+  "positionHash": "be7a0484f967bb80ec3f148e875f60b374cc59ff58688134d4ec13fb4db1c5bf",
   "positionCount": 15,
   "accounts": {
     "IKE": {
@@ -94,7 +94,7 @@
       "account": "IKE",
       "ticker": "PUR",
       "qty": 600,
-      "avgPrice": 0,
+      "avgPrice": 1.672,
       "currency": ""
     },
     {
@@ -308,11 +308,11 @@
         "ACCOUNT": "IKE",
         "TICKER": "PUR",
         "QTY": "600",
-        "AVG_PRICE": "",
+        "AVG_PRICE": "1,672",
         "CURRENCY": "",
         "CURRENT_PRICE": "#N/A",
         "POSITION_VALUE": "#N/A",
-        "COST": "0,00 zł",
+        "COST": "1 003,20 zł",
         "P/L": "#N/A",
         "P/L_%": "#N/A",
         "PORTFOLIO_WEIGHT": "#N/A",
