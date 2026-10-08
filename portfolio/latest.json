@@ -1,24 +1,24 @@
 {
   "ok": false,
   "apiVersion": "1.4.6.1-gpw-portfolio-integrity",
-  "snapshotAt": "2026-10-08T11:57:35.965Z",
-  "localTime": "2026-10-08 13:57:35",
+  "snapshotAt": "2026-10-08T11:59:17.982Z",
+  "localTime": "2026-10-08 13:59:17",
   "sourceSheet": "PORTFOLIO",
   "quoteTimePolicy": "quoteAt from matching PORTFOLIO timestamp or LIVE.TRADE_TIME only when quoted price matches; never snapshotAt",
   "positionChanged": false,
   "positionHash": "d159e0239dbd8d1ee56735ca54e4f13962fdaab558452b86a43ec259de9b9457",
-  "valuationHash": "381eb6e0eebae35c291ef5d4b11eee7ef342b7c2aa65dc9f2a73d406df5502dd",
+  "valuationHash": "71bd9bd3efdd6cbf9eb6e33910183aa8ae7bde5d87e587cba76376eab807823a",
   "positionCount": 14,
   "accounts": {
     "PLN": {
       "currencies": {
         "PLN": {
           "positionsValue": 2649.7012399999994,
-          "cash": null,
-          "totalValue": null,
+          "cash": 13.1,
+          "totalValue": 2662.8012399999993,
           "positionCount": 5,
           "positionsValueComplete": true,
-          "complete": false
+          "complete": true
         }
       }
     },
@@ -26,11 +26,11 @@
       "currencies": {
         "PLN": {
           "positionsValue": 13763.415,
-          "cash": null,
-          "totalValue": null,
+          "cash": 1250.42,
+          "totalValue": 15013.835000000001,
           "positionCount": 9,
           "positionsValueComplete": true,
-          "complete": false
+          "complete": true
         }
       }
     }
@@ -472,26 +472,6 @@
         "MISSING_QUOTE_TIME",
         "INVALID_OR_FUTURE_QUOTE_TIME"
       ]
-    },
-    {
-      "issue": "INVALID_CASH",
-      "account": "IKE",
-      "currency": "PLN"
-    },
-    {
-      "issue": "INVALID_CASH",
-      "account": "PLN",
-      "currency": "PLN"
-    },
-    {
-      "issue": "MISSING_CASH",
-      "account": "PLN",
-      "currency": "PLN"
-    },
-    {
-      "issue": "MISSING_CASH",
-      "account": "IKE",
-      "currency": "PLN"
     }
   ],
   "sheetSnapshot": {
