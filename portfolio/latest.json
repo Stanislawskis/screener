@@ -1,8 +1,8 @@
 {
   "ok": true,
   "apiVersion": "1.4.6.2-gpw-quote-time-diagnostics",
-  "snapshotAt": "2026-10-08T16:24:46.295Z",
-  "localTime": "2026-10-08 18:24:46",
+  "snapshotAt": "2026-10-08T16:54:47.135Z",
+  "localTime": "2026-10-08 18:54:47",
   "sourceSheet": "PORTFOLIO",
   "quoteTimePolicy": "quoteAt from matching PORTFOLIO timestamp or LIVE.TRADE_TIME only when quoted price matches; never snapshotAt",
   "positionChanged": false,
