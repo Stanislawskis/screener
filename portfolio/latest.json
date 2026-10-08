@@ -1,13 +1,13 @@
 {
   "ok": true,
   "apiVersion": "1.4.6.2-gpw-quote-time-diagnostics",
-  "snapshotAt": "2026-10-08T13:49:58.791Z",
-  "localTime": "2026-10-08 15:49:58",
+  "snapshotAt": "2026-10-08T13:50:46.150Z",
+  "localTime": "2026-10-08 15:50:46",
   "sourceSheet": "PORTFOLIO",
   "quoteTimePolicy": "quoteAt from matching PORTFOLIO timestamp or LIVE.TRADE_TIME only when quoted price matches; never snapshotAt",
-  "positionChanged": true,
+  "positionChanged": false,
   "positionHash": "8208225dd4f96d38648766204d1fdd8cfa08ff00bab34775d08e93547af37d46",
-  "valuationHash": "724c9f8ae6c172f4a4f05241c1d1214b3354e0fb8bef2024017da24779d2d136",
+  "valuationHash": "e1239faacc2760ed12d614d36a83f7606ccc3148c7e7f150e242aba4acf66a50",
   "positionCount": 14,
   "accounts": {
     "PLN": {
@@ -26,8 +26,8 @@
       "currencies": {
         "PLN": {
           "positionsValue": 13168.68,
-          "cash": 1250.42,
-          "totalValue": 14419.1,
+          "cash": 1727.32,
+          "totalValue": 14896,
           "positionCount": 9,
           "positionsValueComplete": true,
           "complete": true
