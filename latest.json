@@ -1,12 +1,12 @@
 {
   "ok": true,
   "apiVersion": "1.4.4-gpw-portfolio-sync",
-  "generatedAt": "2026-10-07T23:31:37.758Z",
-  "localTime": "2026-10-08 01:31:37",
+  "generatedAt": "2026-10-08T00:01:37.253Z",
+  "localTime": "2026-10-08 02:01:37",
   "lastRunId": "20261007-181131-544a7523",
-  "currentArchiveFile": "history/2026-10-08/00-02.json",
-  "currentBucket": "00-02",
-  "currentSlot": "2026-10-08 01:30",
+  "currentArchiveFile": "history/2026-10-08/02-04.json",
+  "currentBucket": "02-04",
+  "currentSlot": "2026-10-08 02:00",
   "summary": {
     "activeUniverse": 402,
     "quotesOK": 401,
