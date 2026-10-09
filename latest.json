@@ -1,23 +1,23 @@
 {
   "ok": true,
   "apiVersion": "1.4.6.2-gpw-quote-time-diagnostics",
-  "generatedAt": "2026-10-09T07:24:37.115Z",
-  "localTime": "2026-10-09 09:24:37",
-  "lastRunId": "20261009-092333-9ad4ae0b",
+  "generatedAt": "2026-10-09T07:34:51.148Z",
+  "localTime": "2026-10-09 09:34:51",
+  "lastRunId": "20261009-093343-9e30db62",
   "currentArchiveFile": "history/2026-10-09/08-10.json",
   "currentBucket": "08-10",
-  "currentSlot": "2026-10-09 09:00",
+  "currentSlot": "2026-10-09 09:30",
   "summary": {
     "activeUniverse": 402,
     "quotesOK": 401,
     "unresolved": 1,
     "coverage": 0.9975124378109452,
-    "p0Count": 51,
-    "p0cCount": 20,
-    "earlyWarningCount": 0
+    "p0Count": 60,
+    "p0cCount": 22,
+    "earlyWarningCount": 6
   },
-  "p0Count": 51,
-  "p0cCount": 20,
-  "earlyWarningCount": 0,
+  "p0Count": 60,
+  "p0cCount": 22,
+  "earlyWarningCount": 6,
   "dataProblemsCount": 1
 }
