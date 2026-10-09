@@ -1,13 +1,13 @@
 {
   "ok": true,
   "apiVersion": "1.4.6.2-gpw-quote-time-diagnostics",
-  "snapshotAt": "2026-10-09T06:24:09.488Z",
-  "localTime": "2026-10-09 08:24:09",
+  "snapshotAt": "2026-10-09T06:34:02.594Z",
+  "localTime": "2026-10-09 08:34:02",
   "sourceSheet": "PORTFOLIO",
   "quoteTimePolicy": "quoteAt from matching PORTFOLIO timestamp or LIVE.TRADE_TIME only when quoted price matches; never snapshotAt",
   "positionChanged": false,
   "positionHash": "2e245a9d8e8381aacecc0352ee2e9aa250c144d326237da3a960cd112d0fc6af",
-  "valuationHash": "c209ff13f326661f42bd47e6f5c9e7cb9a0b03ea1c9f5ea31f4345355579fbc4",
+  "valuationHash": "fa2a045d466463d65cf94e59853697c315223672b59f1cddd0354f19ab057942",
   "positionCount": 14,
   "accounts": {
     "PLN": {
@@ -206,9 +206,9 @@
       "quoteAt": "2026-10-08T15:04:21.000Z",
       "quoteAtSource": "LIVE.TRADE_TIME",
       "quoteStatus": "UNVERIFIED",
-      "prevClose": 334.6,
+      "prevClose": 328.35,
       "prevCloseSource": "LIVE.CLOSEYEST",
-      "dayChangePct": -0.01867901972504482,
+      "dayChangePct": 0,
       "marketValue": 820.875,
       "cost": 813.5,
       "pnl": 7.375,
