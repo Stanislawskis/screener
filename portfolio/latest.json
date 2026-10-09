@@ -1,13 +1,13 @@
 {
-  "ok": true,
+  "ok": false,
   "apiVersion": "1.4.8.1-gpw-history-staging-review",
-  "snapshotAt": "2026-10-09T14:24:12.742Z",
-  "localTime": "2026-10-09 16:24:12",
+  "snapshotAt": "2026-10-09T14:24:40.371Z",
+  "localTime": "2026-10-09 16:24:40",
   "sourceSheet": "PORTFOLIO",
   "quoteTimePolicy": "quoteAt from matching PORTFOLIO timestamp or LIVE.TRADE_TIME only when quoted price matches; never snapshotAt",
   "positionChanged": false,
   "positionHash": "2e245a9d8e8381aacecc0352ee2e9aa250c144d326237da3a960cd112d0fc6af",
-  "valuationHash": "10babf0a5e76b491666aeb3931fbc2dc1cbe23a07f9510e3ab6c3b59eccf2068",
+  "valuationHash": "70cee2a86210326f9d688e17c47e4ee9e3d4a412c5ab11101b2ecd10d0f67c21",
   "positionCount": 14,
   "accounts": {
     "PLN": {
@@ -113,8 +113,10 @@
       "cost": 83.2,
       "pnl": -0.7999999999999972,
       "pnlPct": -0.009615384615384581,
-      "dataQuality": "OK",
-      "issues": []
+      "dataQuality": "UNRESOLVED",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
     },
     {
       "account": "PLN",
@@ -318,7 +320,15 @@
     }
   ],
   "cashSource": "PORTFOLIO_CASH",
-  "problems": [],
+  "problems": [
+    {
+      "account": "PLN",
+      "ticker": "ART",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
+    }
+  ],
   "sheetSnapshot": {
     "headers": [
       "ACCOUNT",
