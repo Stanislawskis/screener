@@ -1,8 +1,8 @@
 {
   "ok": true,
   "apiVersion": "1.4.8.1-gpw-history-staging-review",
-  "snapshotAt": "2026-10-12T01:25:19.042Z",
-  "localTime": "2026-10-12 03:25:19",
+  "snapshotAt": "2026-10-12T01:54:45.856Z",
+  "localTime": "2026-10-12 03:54:45",
   "sourceSheet": "PORTFOLIO",
   "quoteTimePolicy": "quoteAt from matching PORTFOLIO timestamp or LIVE.TRADE_TIME only when quoted price matches; never snapshotAt",
   "positionChanged": false,
