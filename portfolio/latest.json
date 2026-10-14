@@ -1,8 +1,8 @@
 {
   "ok": true,
   "apiVersion": "1.4.8.6-gf-production-coexistence",
-  "snapshotAt": "2026-10-14T15:54:31.546Z",
-  "localTime": "2026-10-14 17:54:31",
+  "snapshotAt": "2026-10-14T16:14:12.253Z",
+  "localTime": "2026-10-14 18:14:12",
   "sourceSheet": "PORTFOLIO",
   "quoteTimePolicy": "quoteAt from matching PORTFOLIO timestamp or LIVE.TRADE_TIME only when quoted price matches; never snapshotAt",
   "positionChanged": false,
