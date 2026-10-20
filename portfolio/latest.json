@@ -1,13 +1,13 @@
 {
-  "ok": true,
+  "ok": false,
   "apiVersion": "1.4.8.8-gf-batch60-fault-isolation",
-  "snapshotAt": "2026-10-20T06:53:52.729Z",
-  "localTime": "2026-10-20 08:53:52",
+  "snapshotAt": "2026-10-20T07:03:55.869Z",
+  "localTime": "2026-10-20 09:03:55",
   "sourceSheet": "PORTFOLIO",
   "quoteTimePolicy": "quoteAt from matching PORTFOLIO timestamp or LIVE.TRADE_TIME only when quoted price matches; never snapshotAt",
   "positionChanged": false,
   "positionHash": "2e245a9d8e8381aacecc0352ee2e9aa250c144d326237da3a960cd112d0fc6af",
-  "valuationHash": "261866f8c5df565bb99b18ab474440831ced417cf3daa5b1c6a9547b54187f58",
+  "valuationHash": "7f6673767a43fab2f8e7d66b718ad076c9c3e84784c9d553ab6289d1476372ec",
   "positionCount": 14,
   "accounts": {
     "PLN": {
@@ -53,8 +53,10 @@
       "cost": 940.296,
       "pnl": -42.45600000000002,
       "pnlPct": -0.0451517394522576,
-      "dataQuality": "OK",
-      "issues": []
+      "dataQuality": "UNRESOLVED",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
     },
     {
       "account": "PLN",
@@ -73,8 +75,10 @@
       "cost": 856.6800000000001,
       "pnl": 25.319999999999936,
       "pnlPct": 0.02955596021851792,
-      "dataQuality": "OK",
-      "issues": []
+      "dataQuality": "UNRESOLVED",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
     },
     {
       "account": "PLN",
@@ -93,8 +97,10 @@
       "cost": 198,
       "pnl": -0.5999999999999943,
       "pnlPct": -0.0030303030303030017,
-      "dataQuality": "OK",
-      "issues": []
+      "dataQuality": "UNRESOLVED",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
     },
     {
       "account": "PLN",
@@ -113,8 +119,10 @@
       "cost": 83.2,
       "pnl": -2,
       "pnlPct": -0.024038461538461536,
-      "dataQuality": "OK",
-      "issues": []
+      "dataQuality": "UNRESOLVED",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
     },
     {
       "account": "PLN",
@@ -133,8 +141,10 @@
       "cost": 449.99672,
       "pnl": -20.554859999999962,
       "pnlPct": -0.04567779960707261,
-      "dataQuality": "OK",
-      "issues": []
+      "dataQuality": "UNRESOLVED",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
     },
     {
       "account": "IKE",
@@ -153,8 +163,10 @@
       "cost": 2651.04,
       "pnl": 135.36000000000013,
       "pnlPct": 0.05105920695274312,
-      "dataQuality": "OK",
-      "issues": []
+      "dataQuality": "UNRESOLVED",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
     },
     {
       "account": "IKE",
@@ -173,8 +185,10 @@
       "cost": 720.708,
       "pnl": 179.89200000000005,
       "pnlPct": 0.24960455552040503,
-      "dataQuality": "OK",
-      "issues": []
+      "dataQuality": "UNRESOLVED",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
     },
     {
       "account": "IKE",
@@ -193,8 +207,10 @@
       "cost": 1168.575,
       "pnl": 271.17499999999995,
       "pnlPct": 0.23205613674774828,
-      "dataQuality": "OK",
-      "issues": []
+      "dataQuality": "UNRESOLVED",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
     },
     {
       "account": "IKE",
@@ -206,15 +222,17 @@
       "quoteAt": "2026-10-19T15:04:20.000Z",
       "quoteAtSource": "LIVE.TRADE_TIME",
       "quoteStatus": "UNVERIFIED",
-      "prevClose": 327.75,
+      "prevClose": 318.05,
       "prevCloseSource": "LIVE.CLOSEYEST",
-      "dayChangePct": -0.029595728451563663,
+      "dayChangePct": 0,
       "marketValue": 795.125,
       "cost": 813.5,
       "pnl": -18.375,
       "pnlPct": -0.02258758451137062,
-      "dataQuality": "OK",
-      "issues": []
+      "dataQuality": "UNRESOLVED",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
     },
     {
       "account": "IKE",
@@ -233,8 +251,10 @@
       "cost": 2138.7000000000003,
       "pnl": 66.29999999999973,
       "pnlPct": 0.031000140272127795,
-      "dataQuality": "OK",
-      "issues": []
+      "dataQuality": "UNRESOLVED",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
     },
     {
       "account": "IKE",
@@ -253,8 +273,10 @@
       "cost": 733.8,
       "pnl": -47.399999999999864,
       "pnlPct": -0.06459525756336858,
-      "dataQuality": "OK",
-      "issues": []
+      "dataQuality": "UNRESOLVED",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
     },
     {
       "account": "IKE",
@@ -273,8 +295,10 @@
       "cost": 1177.2,
       "pnl": -36.450000000000045,
       "pnlPct": -0.030963302752293614,
-      "dataQuality": "OK",
-      "issues": []
+      "dataQuality": "UNRESOLVED",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
     },
     {
       "account": "IKE",
@@ -293,8 +317,10 @@
       "cost": 1003.1999999999999,
       "pnl": -103.19999999999993,
       "pnlPct": -0.10287081339712913,
-      "dataQuality": "OK",
-      "issues": []
+      "dataQuality": "UNRESOLVED",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
     },
     {
       "account": "IKE",
@@ -313,12 +339,113 @@
       "cost": 1715.5,
       "pnl": 219.50000000000023,
       "pnlPct": 0.12795103468376579,
-      "dataQuality": "OK",
-      "issues": []
+      "dataQuality": "UNRESOLVED",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
     }
   ],
   "cashSource": "PORTFOLIO_CASH",
-  "problems": [],
+  "problems": [
+    {
+      "account": "PLN",
+      "ticker": "ASB",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
+    },
+    {
+      "account": "PLN",
+      "ticker": "PZU",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
+    },
+    {
+      "account": "PLN",
+      "ticker": "WAS",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
+    },
+    {
+      "account": "PLN",
+      "ticker": "ART",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
+    },
+    {
+      "account": "PLN",
+      "ticker": "CBF",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
+    },
+    {
+      "account": "IKE",
+      "ticker": "ASB",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
+    },
+    {
+      "account": "IKE",
+      "ticker": "PGE",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
+    },
+    {
+      "account": "IKE",
+      "ticker": "ALE",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
+    },
+    {
+      "account": "IKE",
+      "ticker": "KGH",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
+    },
+    {
+      "account": "IKE",
+      "ticker": "PZU",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
+    },
+    {
+      "account": "IKE",
+      "ticker": "PKO",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
+    },
+    {
+      "account": "IKE",
+      "ticker": "MDG",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
+    },
+    {
+      "account": "IKE",
+      "ticker": "MQR",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
+    },
+    {
+      "account": "IKE",
+      "ticker": "DNP",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
+    }
+  ],
   "sheetSnapshot": {
     "headers": [
       "ACCOUNT",
