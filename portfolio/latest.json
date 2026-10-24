@@ -1,13 +1,13 @@
 {
   "ok": false,
   "apiVersion": "1.4.8.8-gf-batch60-fault-isolation",
-  "snapshotAt": "2026-10-24T02:24:53.001Z",
-  "localTime": "2026-10-24 04:24:53",
+  "snapshotAt": "2026-10-24T02:54:50.231Z",
+  "localTime": "2026-10-24 04:54:50",
   "sourceSheet": "PORTFOLIO",
   "quoteTimePolicy": "quoteAt from matching PORTFOLIO timestamp or LIVE.TRADE_TIME only when quoted price matches; never snapshotAt",
   "positionChanged": false,
   "positionHash": "2e245a9d8e8381aacecc0352ee2e9aa250c144d326237da3a960cd112d0fc6af",
-  "valuationHash": "40fe52e575f35a8019985986b87c234005122d3cc8d95f18ffce5979fdb1459e",
+  "valuationHash": "e2ab8f567ca18a8606fafe33be408f3421e76aa02c7066013527ceaa25e56563",
   "positionCount": 14,
   "accounts": {
     "PLN": {
@@ -165,22 +165,19 @@
       "currency": "PLN",
       "qty": 57,
       "avgPrice": 12.644,
-      "price": null,
-      "quoteAt": null,
-      "quoteAtSource": null,
+      "price": 16.73,
+      "quoteAt": "2026-10-23T15:04:03.000Z",
+      "quoteAtSource": "LIVE.TRADE_TIME",
       "quoteStatus": "UNVERIFIED",
-      "prevClose": null,
-      "prevCloseSource": null,
-      "dayChangePct": null,
-      "marketValue": null,
+      "prevClose": 16.7,
+      "prevCloseSource": "LIVE.CLOSEYEST",
+      "dayChangePct": 0.001796407185628901,
+      "marketValue": 953.61,
       "cost": 720.708,
-      "pnl": null,
-      "pnlPct": null,
-      "dataQuality": "UNRESOLVED",
-      "issues": [
-        "MISSING_PRICE",
-        "MISSING_QUOTE_TIME"
-      ]
+      "pnl": 232.90200000000004,
+      "pnlPct": 0.32315722872508706,
+      "dataQuality": "OK",
+      "issues": []
     },
     {
       "account": "IKE",
@@ -212,8 +209,8 @@
       "quoteAt": null,
       "quoteAtSource": null,
       "quoteStatus": "UNVERIFIED",
-      "prevClose": null,
-      "prevCloseSource": null,
+      "prevClose": 296.7,
+      "prevCloseSource": "LIVE.CLOSEYEST",
       "dayChangePct": null,
       "marketValue": null,
       "cost": 813.5,
@@ -334,14 +331,6 @@
     {
       "account": "PLN",
       "ticker": "PZU",
-      "issues": [
-        "MISSING_PRICE",
-        "MISSING_QUOTE_TIME"
-      ]
-    },
-    {
-      "account": "IKE",
-      "ticker": "PGE",
       "issues": [
         "MISSING_PRICE",
         "MISSING_QUOTE_TIME"
@@ -498,11 +487,11 @@
         "QTY": "57",
         "AVG_PRICE": "12,64 zł",
         "CURRENCY": "PLN",
-        "CURRENT_PRICE": "#N/A",
-        "POSITION_VALUE": "#N/A",
+        "CURRENT_PRICE": "16,73 zł",
+        "POSITION_VALUE": "953,61 zł",
         "COST": "720,71 zł",
-        "P/L": "#N/A",
-        "P/L_%": "#N/A",
+        "P/L": "232,90 zł",
+        "P/L_%": "32,32%",
         "PORTFOLIO_WEIGHT": "#N/A",
         "THESIS": "",
         "HORIZON": "",
