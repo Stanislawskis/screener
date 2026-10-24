@@ -1,13 +1,13 @@
 {
   "ok": false,
   "apiVersion": "1.4.8.8-gf-batch60-fault-isolation",
-  "snapshotAt": "2026-10-24T03:24:51.665Z",
-  "localTime": "2026-10-24 05:24:51",
+  "snapshotAt": "2026-10-24T03:54:48.426Z",
+  "localTime": "2026-10-24 05:54:48",
   "sourceSheet": "PORTFOLIO",
   "quoteTimePolicy": "quoteAt from matching PORTFOLIO timestamp or LIVE.TRADE_TIME only when quoted price matches; never snapshotAt",
   "positionChanged": false,
   "positionHash": "2e245a9d8e8381aacecc0352ee2e9aa250c144d326237da3a960cd112d0fc6af",
-  "valuationHash": "3dc8d9459f28cdddf6fe54d7c0131a4ffcb40af90a09749f93036dafda8b8a39",
+  "valuationHash": "d091c223e4c3906e1890de94c8428ec90f0f84eff772ebc2d1a1dea89d25ee32",
   "positionCount": 14,
   "accounts": {
     "PLN": {
@@ -206,8 +206,8 @@
       "quoteAt": null,
       "quoteAtSource": null,
       "quoteStatus": "UNVERIFIED",
-      "prevClose": null,
-      "prevCloseSource": null,
+      "prevClose": 296.7,
+      "prevCloseSource": "LIVE.CLOSEYEST",
       "dayChangePct": null,
       "marketValue": null,
       "cost": 813.5,
