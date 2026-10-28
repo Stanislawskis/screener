@@ -1,13 +1,13 @@
 {
   "ok": false,
   "apiVersion": "1.4.8.8-gf-batch60-fault-isolation",
-  "snapshotAt": "2026-10-28T08:14:06.159Z",
-  "localTime": "2026-10-28 09:14:06",
+  "snapshotAt": "2026-10-28T08:24:02.284Z",
+  "localTime": "2026-10-28 09:24:02",
   "sourceSheet": "PORTFOLIO",
   "quoteTimePolicy": "quoteAt from matching PORTFOLIO timestamp or LIVE.TRADE_TIME only when quoted price matches; never snapshotAt",
   "positionChanged": false,
   "positionHash": "2e245a9d8e8381aacecc0352ee2e9aa250c144d326237da3a960cd112d0fc6af",
-  "valuationHash": "749ef2983c75771487a986a433df685b76a647bba4dee2d00203180b5efbc8f9",
+  "valuationHash": "f8b938f164534f4a125b87f2c6a3d0a7d9d9e1ce89ba61ab359c1e48cbd2b089",
   "positionCount": 14,
   "accounts": {
     "PLN": {
@@ -25,9 +25,9 @@
     "IKE": {
       "currencies": {
         "PLN": {
-          "positionsValue": 12931.814999999999,
+          "positionsValue": 12938.564999999999,
           "cash": 1883.87,
-          "totalValue": 14815.684999999998,
+          "totalValue": 14822.434999999998,
           "positionCount": 9,
           "positionsValueComplete": true,
           "complete": true
@@ -65,7 +65,7 @@
       "qty": 12,
       "avgPrice": 71.39,
       "price": 72.74,
-      "quoteAt": "2026-10-27T16:02:39.000Z",
+      "quoteAt": "2026-10-28T08:08:17.000Z",
       "quoteAtSource": "LIVE.TRADE_TIME",
       "quoteStatus": "UNVERIFIED",
       "prevClose": 72.74,
@@ -75,10 +75,8 @@
       "cost": 856.6800000000001,
       "pnl": 16.199999999999818,
       "pnlPct": 0.018910211514217463,
-      "dataQuality": "UNRESOLVED",
-      "issues": [
-        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
-      ]
+      "dataQuality": "OK",
+      "issues": []
     },
     {
       "account": "PLN",
@@ -241,7 +239,7 @@
       "qty": 30,
       "avgPrice": 71.29,
       "price": 72.74,
-      "quoteAt": "2026-10-27T16:02:39.000Z",
+      "quoteAt": "2026-10-28T08:08:17.000Z",
       "quoteAtSource": "LIVE.TRADE_TIME",
       "quoteStatus": "UNVERIFIED",
       "prevClose": 72.74,
@@ -251,10 +249,8 @@
       "cost": 2138.7000000000003,
       "pnl": 43.499999999999545,
       "pnlPct": 0.020339458549585982,
-      "dataQuality": "UNRESOLVED",
-      "issues": [
-        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
-      ]
+      "dataQuality": "OK",
+      "issues": []
     },
     {
       "account": "IKE",
@@ -284,21 +280,19 @@
       "currency": "PLN",
       "qty": 45,
       "avgPrice": 26.16,
-      "price": 24.15,
-      "quoteAt": "2026-10-27T15:59:53.000Z",
+      "price": 24.3,
+      "quoteAt": "2026-10-28T08:06:04.000Z",
       "quoteAtSource": "LIVE.TRADE_TIME",
       "quoteStatus": "UNVERIFIED",
       "prevClose": 24.15,
       "prevCloseSource": "LIVE.CLOSEYEST",
-      "dayChangePct": 0,
-      "marketValue": 1086.75,
+      "dayChangePct": 0.006211180124223725,
+      "marketValue": 1093.5,
       "cost": 1177.2,
-      "pnl": -90.45000000000005,
-      "pnlPct": -0.07683486238532114,
-      "dataQuality": "UNRESOLVED",
-      "issues": [
-        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
-      ]
+      "pnl": -83.70000000000005,
+      "pnlPct": -0.07110091743119269,
+      "dataQuality": "OK",
+      "issues": []
     },
     {
       "account": "IKE",
@@ -356,13 +350,6 @@
     },
     {
       "account": "PLN",
-      "ticker": "PZU",
-      "issues": [
-        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
-      ]
-    },
-    {
-      "account": "PLN",
       "ticker": "WAS",
       "issues": [
         "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
@@ -412,21 +399,7 @@
     },
     {
       "account": "IKE",
-      "ticker": "PZU",
-      "issues": [
-        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
-      ]
-    },
-    {
-      "account": "IKE",
       "ticker": "PKO",
-      "issues": [
-        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
-      ]
-    },
-    {
-      "account": "IKE",
-      "ticker": "MDG",
       "issues": [
         "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
       ]
@@ -477,7 +450,7 @@
         "COST": "1 168,58 zł",
         "P/L": "301,43 zł",
         "P/L_%": "25,79%",
-        "PORTFOLIO_WEIGHT": "11,37%",
+        "PORTFOLIO_WEIGHT": "11,36%",
         "THESIS": "",
         "HORIZON": "",
         "MAX_WEIGHT": "",
@@ -495,7 +468,7 @@
         "COST": "2 651,04 zł",
         "P/L": "322,56 zł",
         "P/L_%": "12,17%",
-        "PORTFOLIO_WEIGHT": "22,99%",
+        "PORTFOLIO_WEIGHT": "22,98%",
         "THESIS": "",
         "HORIZON": "",
         "MAX_WEIGHT": "",
@@ -513,7 +486,7 @@
         "COST": "1 715,50 zł",
         "P/L": "222,50 zł",
         "P/L_%": "12,97%",
-        "PORTFOLIO_WEIGHT": "14,99%",
+        "PORTFOLIO_WEIGHT": "14,98%",
         "THESIS": "",
         "HORIZON": "",
         "MAX_WEIGHT": "",
@@ -531,7 +504,7 @@
         "COST": "813,50 zł",
         "P/L": "-49,63 zł",
         "P/L_%": "-6,10%",
-        "PORTFOLIO_WEIGHT": "5,91%",
+        "PORTFOLIO_WEIGHT": "5,90%",
         "THESIS": "",
         "HORIZON": "",
         "MAX_WEIGHT": "",
@@ -544,12 +517,12 @@
         "QTY": "45",
         "AVG_PRICE": "26,16 zł",
         "CURRENCY": "PLN",
-        "CURRENT_PRICE": "24,15 zł",
-        "POSITION_VALUE": "1 086,75 zł",
+        "CURRENT_PRICE": "24,30 zł",
+        "POSITION_VALUE": "1 093,50 zł",
         "COST": "1 177,20 zł",
-        "P/L": "-90,45 zł",
-        "P/L_%": "-7,68%",
-        "PORTFOLIO_WEIGHT": "8,40%",
+        "P/L": "-83,70 zł",
+        "P/L_%": "-7,11%",
+        "PORTFOLIO_WEIGHT": "8,45%",
         "THESIS": "",
         "HORIZON": "",
         "MAX_WEIGHT": "",
@@ -567,7 +540,7 @@
         "COST": "1 003,20 zł",
         "P/L": "-115,20 zł",
         "P/L_%": "-11,48%",
-        "PORTFOLIO_WEIGHT": "6,87%",
+        "PORTFOLIO_WEIGHT": "6,86%",
         "THESIS": "",
         "HORIZON": "",
         "MAX_WEIGHT": "",
