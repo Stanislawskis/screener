@@ -1,13 +1,13 @@
 {
   "ok": false,
   "apiVersion": "1.4.8.8-gf-batch60-fault-isolation",
-  "snapshotAt": "2026-10-29T11:54:13.183Z",
-  "localTime": "2026-10-29 12:54:13",
+  "snapshotAt": "2026-10-29T11:54:37.753Z",
+  "localTime": "2026-10-29 12:54:37",
   "sourceSheet": "PORTFOLIO",
   "quoteTimePolicy": "quoteAt from matching PORTFOLIO timestamp or LIVE.TRADE_TIME only when quoted price matches; never snapshotAt",
   "positionChanged": false,
   "positionHash": "2e245a9d8e8381aacecc0352ee2e9aa250c144d326237da3a960cd112d0fc6af",
-  "valuationHash": "c7112407c2cca7a8515570f2a7b629b253b0d603bbfa5a5a9cbdd266adf91bd9",
+  "valuationHash": "94843ec458104ca14960a7ef8b12230a409a0591785286dba444061011c9c553",
   "positionCount": 14,
   "accounts": {
     "PLN": {
@@ -113,8 +113,10 @@
       "cost": 83.2,
       "pnl": -4.480000000000004,
       "pnlPct": -0.05384615384615389,
-      "dataQuality": "OK",
-      "issues": []
+      "dataQuality": "UNRESOLVED",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
     },
     {
       "account": "PLN",
@@ -327,6 +329,13 @@
   ],
   "cashSource": "PORTFOLIO_CASH",
   "problems": [
+    {
+      "account": "PLN",
+      "ticker": "ART",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
+    },
     {
       "account": "IKE",
       "ticker": "ALE",
