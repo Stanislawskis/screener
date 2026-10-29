@@ -1,13 +1,13 @@
 {
   "ok": false,
   "apiVersion": "1.4.8.8-gf-batch60-fault-isolation",
-  "snapshotAt": "2026-10-29T12:54:03.310Z",
-  "localTime": "2026-10-29 13:54:03",
+  "snapshotAt": "2026-10-29T13:04:11.906Z",
+  "localTime": "2026-10-29 14:04:11",
   "sourceSheet": "PORTFOLIO",
   "quoteTimePolicy": "quoteAt from matching PORTFOLIO timestamp or LIVE.TRADE_TIME only when quoted price matches; never snapshotAt",
   "positionChanged": false,
   "positionHash": "2e245a9d8e8381aacecc0352ee2e9aa250c144d326237da3a960cd112d0fc6af",
-  "valuationHash": "78ce6f47ec286f47a05dfd588c1e424268a2b2ca5ff8a9becf2a0553262a7f15",
+  "valuationHash": "3facf2692041b6e3d6316c52b54d600724897c3708ce0e30d3c04a9ce0f95686",
   "positionCount": 14,
   "accounts": {
     "PLN": {
@@ -133,8 +133,10 @@
       "cost": 449.99672,
       "pnl": -21.217919999999992,
       "pnlPct": -0.04715127701375244,
-      "dataQuality": "OK",
-      "issues": []
+      "dataQuality": "UNRESOLVED",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
     },
     {
       "account": "IKE",
@@ -195,8 +197,10 @@
       "cost": 1168.575,
       "pnl": 321.42499999999995,
       "pnlPct": 0.2750572278202083,
-      "dataQuality": "OK",
-      "issues": []
+      "dataQuality": "UNRESOLVED",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
     },
     {
       "account": "IKE",
@@ -255,8 +259,10 @@
       "cost": 733.8,
       "pnl": -33.11999999999989,
       "pnlPct": -0.045134914145543596,
-      "dataQuality": "OK",
-      "issues": []
+      "dataQuality": "UNRESOLVED",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
     },
     {
       "account": "IKE",
@@ -295,8 +301,10 @@
       "cost": 1003.1999999999999,
       "pnl": -127.19999999999993,
       "pnlPct": -0.12679425837320568,
-      "dataQuality": "OK",
-      "issues": []
+      "dataQuality": "UNRESOLVED",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
     },
     {
       "account": "IKE",
@@ -322,8 +330,36 @@
   "cashSource": "PORTFOLIO_CASH",
   "problems": [
     {
+      "account": "PLN",
+      "ticker": "CBF",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
+    },
+    {
       "account": "IKE",
       "ticker": "PGE",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
+    },
+    {
+      "account": "IKE",
+      "ticker": "ALE",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
+    },
+    {
+      "account": "IKE",
+      "ticker": "PKO",
+      "issues": [
+        "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
+      ]
+    },
+    {
+      "account": "IKE",
+      "ticker": "MQR",
       "issues": [
         "QUOTE_TIME_OUTSIDE_60_MIN_WINDOW"
       ]
