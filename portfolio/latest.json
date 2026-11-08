@@ -1,8 +1,8 @@
 {
   "ok": true,
   "apiVersion": "1.4.8.8-gf-batch60-fault-isolation",
-  "snapshotAt": "2026-11-08T19:54:47.635Z",
-  "localTime": "2026-11-08 20:54:47",
+  "snapshotAt": "2026-11-08T20:25:00.449Z",
+  "localTime": "2026-11-08 21:25:00",
   "sourceSheet": "PORTFOLIO",
   "quoteTimePolicy": "quoteAt from matching PORTFOLIO timestamp or LIVE.TRADE_TIME only when quoted price matches; never snapshotAt",
   "positionChanged": false,
